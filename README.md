@@ -9,7 +9,6 @@ Built with **Qdrant** (vector database), **Ollama** (local LLM), **Sentence-Tran
 ## Demo
 
 | Answer with sources |
-|---|---|
 | ![Answer with sources](docs/demo.png) | 
 
 ## Features
