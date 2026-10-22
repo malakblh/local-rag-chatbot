@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Your first question about the document?",
+    "source": "document.pdf",
+    "expected_pages": [[3, 4]]
+  },
+  {
+    "question": "A question whose answer spans a whole chapter?",
+    "source": "document.pdf",
+    "expected_pages": [[10, 25]]
+  },
+  {
+    "question": "A question answered in two different places?",
+    "source": "document.pdf",
+    "expected_pages": [[5, 6], [40, 42]]
+  }
+]

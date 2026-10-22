@@ -1,0 +1,18 @@
+[
+  {"question": "Qui a inventé le machine learning ?", "source": "Ai.pdf", "expected_pages": [[4, 6]]},
+  {"question": "Qu'est-ce que le transformer ?", "source": "Ai.pdf", "expected_pages": [[82, 84]]},
+  {"question": "Qu'est-ce que l'apprentissage supervisé ?", "source": "Ai.pdf", "expected_pages": [[4, 19]]},
+  {"question": "Qu'est-ce que l'apprentissage non supervisé ?", "source": "Ai.pdf", "expected_pages": [[4, 19], [43, 57]]},
+  {"question": "Comment fonctionne la régression linéaire ?", "source": "Ai.pdf", "expected_pages": [[17, 35]]},
+  {"question": "Qu'est-ce que la classification en machine learning ?", "source": "Ai.pdf", "expected_pages": [[32, 46]]},
+  {"question": "À quoi sert le clustering ?", "source": "Ai.pdf", "expected_pages": [[43, 57]]},
+  {"question": "Qu'est-ce qu'un centroïde dans l'algorithme K-means ?", "source": "Ai.pdf", "expected_pages": [[43, 57]]},
+  {"question": "Comment fonctionne la détection d'anomalies ?", "source": "Ai.pdf", "expected_pages": [[54, 67]]},
+  {"question": "Qu'est-ce que l'apprentissage par renforcement ?", "source": "Ai.pdf", "expected_pages": [[4, 19], [63, 79]]},
+  {"question": "Que dit l'équation de Bellman ?", "source": "Ai.pdf", "expected_pages": [[63, 79]]},
+  {"question": "À quoi sert la table Q ?", "source": "Ai.pdf", "expected_pages": [[63, 79]]},
+  {"question": "Qu'est-ce que la rétropropagation (back-propagation) ?", "source": "Ai.pdf", "expected_pages": [[74, 88]]},
+  {"question": "Qu'est-ce que l'IA générative ?", "source": "Ai.pdf", "expected_pages": [[74, 88]]},
+  {"question": "Qu'est-ce que le deep learning ?", "source": "Ai.pdf", "expected_pages": [[74, 88]]}
+]
+

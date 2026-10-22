@@ -1,0 +1,5 @@
+pypdf>=4.0.0
+sentence-transformers>=3.0.0
+qdrant-client>=1.10.0
+ollama>=0.3.0
+streamlit>=1.31.0
